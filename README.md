@@ -1,6 +1,6 @@
 ## Hi there I'm Shruti👋
 
-🔭 I’m currently working on Foreign Language Learning Platform (Next.js, Tailwind, PostgreSQL)
+🔭 I’m currently working on Exploring market-driven technologies
 
 🌱 I’m currently learning Next.js, PostgreSQL, and advanced MERN concepts
 
